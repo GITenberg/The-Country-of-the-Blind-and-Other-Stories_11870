@@ -1,0 +1,37 @@
+_repo: The-Country-of-the-Blind-and-Other-Stories_11870
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, English'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: The jilting of Jane -- The cone -- The stolen bacillus -- The flowering
+  of the strange orchid -- In the Avu Observatory -- Aepyornis Island -- The remarkable
+  case of Davidson's eyes -- The Lord of the Dynamos -- The moth -- The treasure in
+  the forest -- The story of the late Mr. Elvesham -- Under the knife -- The sea raiders
+  -- The obliterated man -- The Plattner story -- The red room -- The purple Pileus
+  -- A slip under the microscope -- The crystal egg -- The star -- The man who could
+  work miracles -- A vision of judgment -- Jimmy Goggles the God -- Miss Winchelsea's
+  heart -- A dream of Armageddon -- The valley of spiders -- The new accelerator --
+  The truth about Pyecraft -- The magic shop -- The empire of the ants -- The door
+  in the wall -- The country of the blind -- The beautiful suit.
+title: The Country of the Blind, and Other Stories
+url: http://www.gutenberg.org/ebooks/11870
